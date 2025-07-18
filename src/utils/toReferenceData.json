@@ -1,0 +1,14 @@
+[
+  {
+    "id": "oil_change",
+    "name": "Замена масла",
+    "interval_km": 10000,
+    "interval_months": 12
+  },
+  {
+    "id": "brake_check",
+    "name": "Проверка тормозов",
+    "interval_km": 20000,
+    "interval_months": 24
+  }
+]
