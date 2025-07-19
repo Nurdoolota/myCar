@@ -1,11 +1,12 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import MaintenanceList from './src/components/MaintenanceList';
-import AddMaintenance from './src/components/AddMaintenance';
-import BreakdownList from './src/components/BreakdownList';
-import AddBreakdown from './src/components/AddBreakdown';
-import Insurance from './src/components/Insurance';
+import MaintenanceList from '../components/MaintenanceList';
+import AddMaintenance from '../components/AddMaintenance';
+import BreakdownList from '../components/BreakdownList';
+import AddBreakdown from '../components/AddBreakdown';
+import Insurance from '../components/Insurance';
+// import MaintenanceList from '../components/MaintenanceList';
 
 // import Maintenance from './src/components'
 
